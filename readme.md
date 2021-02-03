@@ -5,3 +5,4 @@
 * [Teori Belajar dan Pembelajaran](<Teori Belajar dan Pembelajaran>)
 ## 2020/Ganjil
 * [Penilaian dan Evaluasi Hasil Belajar](<Penilaian dan Evaluasi Hasil Belajar>)
+* [Manajemen Kurikulum dan Bidang Studi](<Manajemen Kurikulum dan Bidang Studi>)
